@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	customAuth "github.com/codeinbit/go-shop/api/auth"
-	"github.com/codeinbit/go-shop/api/utilities"
+	customAuth "github.com/codeinbit/go-rest-api-boilerplate/api/auth"
+	"github.com/codeinbit/go-rest-api-boilerplate/api/utilities"
 )
 
 func SetMiddlewareJSON(next http.HandlerFunc) http.HandlerFunc {

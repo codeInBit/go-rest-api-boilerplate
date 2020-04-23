@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87aeb98a-1d71-4b16-bb16-764beb92e706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/controllers/home_controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/middlewares/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/seeders/seeder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/utilities/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/controllers/BaseController.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/controllers/base_controller.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/home_controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/controllers/home_controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/middlewares/middleware.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/middlewares/middleware.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>

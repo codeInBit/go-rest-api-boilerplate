@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/codeinbit/go-shop/api/utilities"
+	"github.com/codeinbit/go-rest-api-boilerplate/api/utilities"
 	"net/http"
 )
 
